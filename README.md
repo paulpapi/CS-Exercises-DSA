@@ -1,4 +1,4 @@
-# Design & Analysis Of Algorithm Exercises 🚀
+# Design & Analysis Of Algorithms Exercises 🚀
 
 Welcome to my **Data Structure & Algorithm Exercises** repository! This space is dedicated to solving and experimenting with **Dynamic Programming** and **Divide-and-Conquer** algorithms in C++.
 
